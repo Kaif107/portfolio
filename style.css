@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    
+}
+.onepage{
+height: 100%;
+width: 100%;
+background-image: url("bg.webp");
+background-position: center;
+background-size: cover;
+color: whitesmoke;
+}
+nav{
+    height: 10%;
+}
+.nleft{
+    /* border: 2px solid red; */
+}
+.content{
+    height: 90%;
+    width: 100%;
+}
+.secondpage{
+    height: 100vh;
+    width: 100%;
+}
+.container{
+    /* border: 2px solid red; */
+}
+.box{
+    /* border: 2px solid red; */
+}
+i{
+    color: #8354A2;
+}
+ 
